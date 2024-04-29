@@ -17,7 +17,6 @@ artists = [artist.text.strip() for artist in soup.select("#CHARTrealtime > table
 images = [img['src'].strip() for img in soup.select("#CHARTrealtime > table > tbody > tr > td:nth-child(5) > a > img")]
 albums = [album.text.strip() for album in soup.select("#CHARTrealtime > table > tbody > tr > td:nth-child(9) > a")]
 
-
 # 데이터를 리스트 of 딕셔너리 형태로 구성
 chart_data = []
 for ranking, title, artist, image_url, album in zip(rankings, titles, artists, images, albums):
@@ -26,7 +25,7 @@ for ranking, title, artist, image_url, album in zip(rankings, titles, artists, i
         "title": title,
         "artist": artist,
         "imageURL": image_url,
-        "albums": album
+        "album": album
     })
 
 # 파일 이름 설정

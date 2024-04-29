@@ -6,9 +6,9 @@ on:
   pull_request:
     branches: [ "main" ]
   schedule:
-    - cron: '10 16 * * *'  # Billboard, 매일 4시 10분
-    - cron: '20 16 * * *'  # Bugs, 매일 4시 20분
-    - cron: '30 16 * * *'  # Melon, 매일 4시 30분
+    - cron: '40 17 * * *'  # Billboard, 매일 4시 10분
+    - cron: '50 17 * * *'  # Bugs, 매일 4시 20분
+    - cron: '0 18 * * *'  # Melon, 매일 4시 30분
 
 jobs:
   billboard:

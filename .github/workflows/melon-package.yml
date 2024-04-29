@@ -35,7 +35,7 @@ jobs:
        
     - name: run my file
       run: |
-        python3 melonChart.py
+        python3 pyMelonChart.py
 
     - name: commits
       run: |

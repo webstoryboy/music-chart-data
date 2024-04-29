@@ -32,10 +32,7 @@ jobs:
         pip install requests
         pip install beautifulsoup4
         pip install lxml
-    
-    - name: Create bugs directory
-      run: mkdir -p bugs
-
+       
     - name: run my file
       run: |
         python3 pyBugsChart.py
@@ -44,7 +41,7 @@ jobs:
       run: |
         git config --global user.email "webstupids@gmail.com"
         git config --global user.name "webstoryboy"
-        git add bugs/chart_bugs100_*.json  
+        git add chart_bugs100_*.json  
         git commit -m "벅스뮤직 챠트데이터 수집"
 
     - name: push

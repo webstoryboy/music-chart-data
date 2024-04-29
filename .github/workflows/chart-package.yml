@@ -1,0 +1,96 @@
+name: Music Chart Data Collection
+
+on:
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+  schedule:
+    - cron: '0 2 * * *'   # Billboard
+    - cron: '10 2 * * *'  # Bugs
+    - cron: '20 2 * * *'  # Melon
+
+jobs:
+  billboard:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Set up Python
+        uses: actions/setup-python@v3
+        with:
+          python-version: '3.8'
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests
+          pip install beautifulsoup4
+          pip install lxml
+      - name: Run script
+        run: python3 pyBillboardChart.py
+      - name: Commit changes
+        run: |
+          git config --global user.email "webstupids@gmail.com"
+          git config --global user.name "webstoryboy"
+          git add chart_billboard100_*.json  
+          git commit -m "빌보드 챠트데이터 수집"
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with: 
+          branch: "main"
+          github_token: $
+
+  bugs:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Set up Python
+        uses: actions/setup-python@v3
+        with:
+          python-version: '3.8'
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests
+          pip install beautifulsoup4
+          pip install lxml
+      - name: Run script
+        run: python3 pyBugsChart.py
+      - name: Commit changes
+        run: |
+          git config --global user.email "webstupids@gmail.com"
+          git config --global user.name "webstoryboy"
+          git add chart_bugs100_*.json  
+          git commit -m "벅스뮤직 챠트데이터 수집"
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with: 
+          branch: "main"
+          github_token: $
+
+  melon:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Set up Python
+        uses: actions/setup-python@v3
+        with:
+          python-version: '3.8'
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests
+          pip install beautifulsoup4
+          pip install lxml
+      - name: Run script
+        run: python3 pyMelonChart.py
+      - name: Commit changes
+        run: |
+          git config --global user.email "webstupids@gmail.com"
+          git config --global user.name "webstoryboy"
+          git add chart_melon100_*.json  
+          git commit -m "멜론뮤직 챠트데이터 수집"
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with: 
+          branch: "main"
+          github_token: $

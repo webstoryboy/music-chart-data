@@ -13,11 +13,11 @@ on:
 
 jobs:
   build:
-
     runs-on: ubuntu-latest
 
     steps:
     - uses: actions/checkout@v4
+
     - name: Set up Python ${{ matrix.python-version }}
       uses: actions/setup-python@v3
       with:
@@ -26,25 +26,26 @@ jobs:
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
-
-    - name: library install
-      run: |
         pip install requests
         pip install beautifulsoup4
         pip install lxml
-       
-    - name: run my file
+
+    - name: Create melon directory
+      run: mkdir -p melon
+
+    - name: Run script
       run: |
         python3 pyMelonChart.py
 
-    - name: commits
+    - name: Commit and push changes
       run: |
         git config --global user.email "webstupids@gmail.com"
         git config --global user.name "webstoryboy"
-        git add chart_melon100_*.json  
+        git add melon/chart_melon100_*.json  
         git commit -m "멜론뮤직 챠트데이터 수집"
+        git push
 
-    - name: push
+    - name: Push changes
       uses: ad-m/github-push-action@master
       with: 
         branch: "main"

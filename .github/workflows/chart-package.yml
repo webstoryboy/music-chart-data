@@ -38,9 +38,9 @@ jobs:
         
     - name: run my file
       run: |
-        python3 pyBillboardChart.py
-        python3 pyBugsChart.py
-        python3 pyMelonChart.py
+        python pyBillboardChart.py
+        python pyBugsChart.py
+        python pyMelonChart.py
         
     - name: commits
       run : |

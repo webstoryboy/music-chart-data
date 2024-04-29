@@ -9,7 +9,7 @@ on:
   pull_request:
     branches: [ "main" ]
   schedule:
-    - cron: '0 2 * * *'
+    - cron: '30 2 * * *'
 
 jobs:
   build:
@@ -35,7 +35,7 @@ jobs:
        
     - name: run my file
       run: |
-        python3 bugsChart.py
+        python3 pyBugsChart.py
 
     - name: commits
       run: |

@@ -29,7 +29,7 @@ for ranking, title, artist, image_url, album in zip(rankings, titles, artists, i
     })
 
 # 파일 이름 설정
-file_name = f"chart_bugs100_{current_date}.json"
+file_name = f"bugs/bugs100_{current_date}.json"
 
 # JSON 파일로 저장
 with open(file_name, 'w', encoding='utf-8') as file:

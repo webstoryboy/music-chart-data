@@ -38,17 +38,17 @@ jobs:
         
     - name: run my file
       run: |
-        python pyBillboardChart.py
-        python pyBugsChart.py
-        python pyMelonChart.py
+        python3 pyBillboardChart.py
+        python3 pyBugsChart.py
+        python3 pyMelonChart.py
         
     - name: commits
       run : |
         git config --global user.email "webstupids@gmail.com"
         git config --global user.name "webstoryboy"
-        git add chart_billboard100_*.json
-        git add chart_bugs100_*.json
-        git add chart_melon100_*.json
+        git add billboard/billboard100_*.json
+        git add bugs/bugs100_*.json
+        git add melon/melon100_*.json
         git commit -m "차트 수집"
 
     - name: push

@@ -54,7 +54,7 @@ jobs:
         git add melon/melon100_*.json
         git add apple/apple100_*.json
         git add flo/flo100_*.json
-        git add ginie/ginie100_*.json
+        git add genie/genie100_*.json
         git commit -m "차트 수집"
 
     - name: push

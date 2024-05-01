@@ -41,6 +41,9 @@ jobs:
         python3 pyBillboardChart.py
         python3 pyBugsChart.py
         python3 pyMelonChart.py
+        python3 pyAppleChart.py
+        python3 pyFloChart.py
+        python3 pyGinieChart.py
         
     - name: commits
       run : |
@@ -49,6 +52,9 @@ jobs:
         git add billboard/billboard100_*.json
         git add bugs/bugs100_*.json
         git add melon/melon100_*.json
+        git add apple/apple100_*.json
+        git add flo/flo100_*.json
+        git add ginie/ginie100_*.json
         git commit -m "차트 수집"
 
     - name: push

@@ -43,7 +43,7 @@ jobs:
         python3 pyMelonChart.py
         python3 pyAppleChart.py
         python3 pyFloChart.py
-        python3 pyGinieChart.py
+        python3 pyGenieChart.py
         
     - name: commits
       run : |

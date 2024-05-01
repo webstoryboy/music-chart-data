@@ -48,7 +48,7 @@ for url in urls:
     all_chart_data.extend(chart_data)
 
 # JSON 파일로 저장
-file_name = f"ginie/genie100_{current_date}.json"
+file_name = f"genie/genie100_{current_date}.json"
 
 with open(file_name, 'w', encoding='utf-8') as file:
     json.dump(all_chart_data, file, ensure_ascii=False, indent=4)

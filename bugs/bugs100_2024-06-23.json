@@ -1,0 +1,702 @@
+[
+    {
+        "rank": "1",
+        "title": "Small girl (feat. 도경수(D.O.))",
+        "artist": "이영지",
+        "imageURL": "https://image.bugsm.co.kr/album/images/50/41029/4102930.jpg?version=20240622004230.0",
+        "album": "16 Fantasy"
+    },
+    {
+        "rank": "2",
+        "title": "How Sweet",
+        "artist": "NewJeans",
+        "imageURL": "https://image.bugsm.co.kr/album/images/50/41006/4100628.jpg?version=20240622010201.0",
+        "album": "How Sweet"
+    },
+    {
+        "rank": "3",
+        "title": "Supernova",
+        "artist": "aespa",
+        "imageURL": "https://image.bugsm.co.kr/album/images/50/41011/4101141.jpg?version=20240621003421.0",
+        "album": "Armageddon - The 1st Album"
+    },
+    {
+        "rank": "4",
+        "title": "Bubble Gum",
+        "artist": "NewJeans",
+        "imageURL": "https://image.bugsm.co.kr/album/images/50/41006/4100628.jpg?version=20240622010201.0",
+        "album": "How Sweet"
+    },
+    {
+        "rank": "5",
+        "title": "Armageddon",
+        "artist": "aespa",
+        "imageURL": "https://image.bugsm.co.kr/album/images/50/41011/4101141.jpg?version=20240621003421.0",
+        "album": "Armageddon - The 1st Album"
+    },
+    {
+        "rank": "6",
+        "title": "고민중독",
+        "artist": "QWER",
+        "imageURL": "https://image.bugsm.co.kr/album/images/50/40996/4099653.jpg?version=20240402065258.0",
+        "album": "1st Mini Album 'MANITO'"
+    },
+    {
+        "rank": "7",
+        "title": "해야 (HEYA)",
+        "artist": "IVE (아이브)",
+        "imageURL": "https://image.bugsm.co.kr/album/images/50/41006/4100623.jpg?version=20240522002844.0",
+        "album": "IVE SWITCH"
+    },
+    {
+        "rank": "8",
+        "title": "소나기",
+        "artist": "이클립스 (ECLIPSE)",
+        "imageURL": "https://image.bugsm.co.kr/album/images/50/206352/20635260.jpg?version=20240508012916.0",
+        "album": "선재 업고 튀어 OST Part 1"
+    },
+    {
+        "rank": "9",
+        "title": "Magnetic",
+        "artist": "아일릿(ILLIT)",
+        "imageURL": "https://image.bugsm.co.kr/album/images/50/206323/20632324.jpg?version=20240417003638.0",
+        "album": "SUPER REAL ME"
+    },
+    {
+        "rank": "10",
+        "title": "SPOT! (feat. JENNIE)",
+        "artist": "지코 (ZICO)",
+        "imageURL": "https://image.bugsm.co.kr/album/images/50/41005/4100571.jpg?version=20240430023213.0",
+        "album": "SPOT!"
+    },
+    {
+        "rank": "11",
+        "title": "나는 아픈 건 딱 질색이니까",
+        "artist": "(여자)아이들",
+        "imageURL": "https://image.bugsm.co.kr/album/images/50/40953/4095394.jpg?version=20240314012120.0",
+        "album": "2"
+    },
+    {
+        "rank": "12",
+        "title": "첫 만남은 계획대로 되지 않아",
+        "artist": "TWS (투어스)",
+        "imageURL": "https://image.bugsm.co.kr/album/images/50/40947/4094730.jpg?version=20240606010517.0",
+        "album": "TWS 1st Mini Album ‘Sparkling Blue’"
+    },
+    {
+        "rank": "13",
+        "title": "한 페이지가 될 수 있게",
+        "artist": "DAY6 (데이식스)",
+        "imageURL": "https://image.bugsm.co.kr/album/images/50/202657/20265759.jpg?version=20211119004415.0",
+        "album": "The Book of Us : Gravity"
+    },
+    {
+        "rank": "14",
+        "title": "Boom Boom Bass",
+        "artist": "RIIZE",
+        "imageURL": "https://image.bugsm.co.kr/album/images/50/40997/4099766.jpg?version=20240618055838.0",
+        "album": "RIIZING - The 1st Mini Album"
+    },
+    {
+        "rank": "15",
+        "title": "Welcome to the Show",
+        "artist": "DAY6 (데이식스)",
+        "imageURL": "https://image.bugsm.co.kr/album/images/50/206298/20629850.jpg?version=20240403020906.0",
+        "album": "Fourever"
+    },
+    {
+        "rank": "16",
+        "title": "밤양갱",
+        "artist": "비비(BIBI)",
+        "imageURL": "https://image.bugsm.co.kr/album/images/50/40961/4096123.jpg?version=20240301015403.0",
+        "album": "밤양갱"
+    },
+    {
+        "rank": "17",
+        "title": "Accendio",
+        "artist": "IVE (아이브)",
+        "imageURL": "https://image.bugsm.co.kr/album/images/50/41006/4100623.jpg?version=20240522002844.0",
+        "album": "IVE SWITCH"
+    },
+    {
+        "rank": "18",
+        "title": "ABCD",
+        "artist": "나연 (TWICE)",
+        "imageURL": "https://image.bugsm.co.kr/album/images/50/206499/20649986.jpg?version=20240615014028.0",
+        "album": "NA"
+    },
+    {
+        "rank": "19",
+        "title": "예뻤어",
+        "artist": "DAY6 (데이식스)",
+        "imageURL": "https://image.bugsm.co.kr/album/images/50/200804/20080494.jpg?version=20201118135141.0",
+        "album": "Every DAY6 February"
+    },
+    {
+        "rank": "20",
+        "title": "에피소드",
+        "artist": "이무진",
+        "imageURL": "https://image.bugsm.co.kr/album/images/50/40941/4094127.jpg?version=20240209025240.0",
+        "album": "에피소드"
+    },
+    {
+        "rank": "21",
+        "title": "SHEESH",
+        "artist": "BABYMONSTER",
+        "imageURL": "https://image.bugsm.co.kr/album/images/50/40996/4099652.jpg?version=20240613004716.0",
+        "album": "BABYMONS7ER"
+    },
+    {
+        "rank": "22",
+        "title": "Run Run",
+        "artist": "이클립스 (ECLIPSE)",
+        "imageURL": "https://image.bugsm.co.kr/album/images/50/206352/20635260.jpg?version=20240508012916.0",
+        "album": "선재 업고 튀어 OST Part 1"
+    },
+    {
+        "rank": "23",
+        "title": "ETA",
+        "artist": "NewJeans",
+        "imageURL": "https://image.bugsm.co.kr/album/images/50/40885/4088574.jpg?version=20231220032138.0",
+        "album": "NewJeans 2nd EP 'Get Up'"
+    },
+    {
+        "rank": "24",
+        "title": "천상연",
+        "artist": "이창섭",
+        "imageURL": "https://image.bugsm.co.kr/album/images/50/40963/4096392.jpg?version=20240222064728.0",
+        "album": "천상연 (웹툰 '선녀외전' X 이창섭 (LEE CHANGSUB))"
+    },
+    {
+        "rank": "25",
+        "title": "Hype Boy",
+        "artist": "NewJeans",
+        "imageURL": "https://image.bugsm.co.kr/album/images/50/40780/4078016.jpg?version=20221014011218.0",
+        "album": "NewJeans 1st EP 'New Jeans'"
+    },
+    {
+        "rank": "26",
+        "title": "미안해 미워해 사랑해",
+        "artist": "Crush",
+        "imageURL": "https://image.bugsm.co.kr/album/images/50/40993/4099372.jpg?version=20240517174204.0",
+        "album": "눈물의 여왕 OST Part.4"
+    },
+    {
+        "rank": "27",
+        "title": "Girls Never Die",
+        "artist": "tripleS (트리플에스)",
+        "imageURL": "https://image.bugsm.co.kr/album/images/50/41009/4100945.jpg?version=20240515004403.0",
+        "album": "<ASSEMBLE24>"
+    },
+    {
+        "rank": "28",
+        "title": "Super Shy",
+        "artist": "NewJeans",
+        "imageURL": "https://image.bugsm.co.kr/album/images/50/40885/4088574.jpg?version=20231220032138.0",
+        "album": "NewJeans 2nd EP 'Get Up'"
+    },
+    {
+        "rank": "29",
+        "title": "Blue Moon",
+        "artist": "엔플라잉(N.Flying)",
+        "imageURL": "https://image.bugsm.co.kr/album/images/50/40867/4086742.jpg?version=20230521064719.0",
+        "album": "Once in a BLUE MOON"
+    },
+    {
+        "rank": "30",
+        "title": "그랬나봐",
+        "artist": "유회승 (엔플라잉)",
+        "imageURL": "https://image.bugsm.co.kr/album/images/50/206408/20640830.jpg?version=20240511011412.0",
+        "album": "선재 업고 튀어 OST Part 6"
+    },
+    {
+        "rank": "31",
+        "title": "비의 랩소디",
+        "artist": "임재현",
+        "imageURL": "https://image.bugsm.co.kr/album/images/50/206088/20608836.jpg?version=20240209024356.0",
+        "album": "비의 랩소디"
+    },
+    {
+        "rank": "32",
+        "title": "Lucky Girl Syndrome",
+        "artist": "아일릿(ILLIT)",
+        "imageURL": "https://image.bugsm.co.kr/album/images/50/206323/20632324.jpg?version=20240417003638.0",
+        "album": "SUPER REAL ME"
+    },
+    {
+        "rank": "33",
+        "title": "Ditto",
+        "artist": "NewJeans",
+        "imageURL": "https://image.bugsm.co.kr/album/images/50/40824/4082425.jpg?version=20231215003716.0",
+        "album": "NewJeans 'OMG'"
+    },
+    {
+        "rank": "34",
+        "title": "Attention",
+        "artist": "NewJeans",
+        "imageURL": "https://image.bugsm.co.kr/album/images/50/40780/4078016.jpg?version=20221014011218.0",
+        "album": "NewJeans 1st EP 'New Jeans'"
+    },
+    {
+        "rank": "35",
+        "title": "I AM",
+        "artist": "IVE (아이브)",
+        "imageURL": "https://image.bugsm.co.kr/album/images/50/40849/4084947.jpg?version=20231121004633.0",
+        "album": "I've IVE"
+    },
+    {
+        "rank": "36",
+        "title": "Love wins all",
+        "artist": "아이유(IU)",
+        "imageURL": "https://image.bugsm.co.kr/album/images/50/40955/4095501.jpg?version=20240307012526.0",
+        "album": "The Winning"
+    },
+    {
+        "rank": "37",
+        "title": "Balloon in Love",
+        "artist": "선미",
+        "imageURL": "https://image.bugsm.co.kr/album/images/50/41026/4102643.jpg?version=20240618050658.0",
+        "album": "Balloon in Love"
+    },
+    {
+        "rank": "38",
+        "title": "Midas Touch",
+        "artist": "KISS OF LIFE",
+        "imageURL": "https://image.bugsm.co.kr/album/images/50/40997/4099765.jpg?version=20240418005839.0",
+        "album": "Midas Touch"
+    },
+    {
+        "rank": "39",
+        "title": "HAPPY",
+        "artist": "DAY6 (데이식스)",
+        "imageURL": "https://image.bugsm.co.kr/album/images/50/206298/20629850.jpg?version=20240403020906.0",
+        "album": "Fourever"
+    },
+    {
+        "rank": "40",
+        "title": "봄눈",
+        "artist": "10CM",
+        "imageURL": "https://image.bugsm.co.kr/album/images/50/206426/20642655.jpg?version=20240515004113.0",
+        "album": "선재 업고 튀어 OST Part 8"
+    },
+    {
+        "rank": "41",
+        "title": "산책",
+        "artist": "성시경",
+        "imageURL": "https://image.bugsm.co.kr/album/images/50/41025/4102569.jpg?version=20240618055329.0",
+        "album": "산책"
+    },
+    {
+        "rank": "42",
+        "title": "New Jeans",
+        "artist": "NewJeans",
+        "imageURL": "https://image.bugsm.co.kr/album/images/50/40885/4088574.jpg?version=20231220032138.0",
+        "album": "NewJeans 2nd EP 'Get Up'"
+    },
+    {
+        "rank": "43",
+        "title": "그대만 있다면 (여름날 우리 X 너드커넥션 (Nerd Connection))",
+        "artist": "너드커넥션(Nerd Connection)",
+        "imageURL": "https://image.bugsm.co.kr/album/images/50/40901/4090168.jpg?version=20240209005514.0",
+        "album": "그대만 있다면 (여름날 우리 X 너드커넥션 (Nerd Connection))"
+    },
+    {
+        "rank": "44",
+        "title": "오래된 노래",
+        "artist": "허각",
+        "imageURL": "https://image.bugsm.co.kr/album/images/50/41027/4102713.jpg?version=20240620005658.0",
+        "album": "오래된 노래"
+    },
+    {
+        "rank": "45",
+        "title": "To. X",
+        "artist": "태연 (TAEYEON)",
+        "imageURL": "https://image.bugsm.co.kr/album/images/50/40935/4093522.jpg?version=20240307015748.0",
+        "album": "To. X - The 5th Mini Album"
+    },
+    {
+        "rank": "46",
+        "title": "Love me or Leave me",
+        "artist": "DAY6 (데이식스)",
+        "imageURL": "https://image.bugsm.co.kr/album/images/50/203237/20323788.jpg?version=20200512002352.0",
+        "album": "The Book of Us : The Demon"
+    },
+    {
+        "rank": "47",
+        "title": "Star",
+        "artist": "엔플라잉(N.Flying)",
+        "imageURL": "https://image.bugsm.co.kr/album/images/50/206353/20635383.jpg?version=20240410003738.0",
+        "album": "선재 업고 튀어 OST Part 2"
+    },
+    {
+        "rank": "48",
+        "title": "인사",
+        "artist": "범진",
+        "imageURL": "https://image.bugsm.co.kr/album/images/50/204409/20440993.jpg?version=20231212004159.0",
+        "album": "인사"
+    },
+    {
+        "rank": "49",
+        "title": "Drama",
+        "artist": "aespa",
+        "imageURL": "https://image.bugsm.co.kr/album/images/50/40929/4092948.jpg?version=20240307022045.0",
+        "album": "Drama - The 4th Mini Album"
+    },
+    {
+        "rank": "50",
+        "title": "Steal The Show (From “엘리멘탈”)",
+        "artist": "Lauv(라우브)",
+        "imageURL": "https://image.bugsm.co.kr/album/images/50/317556/31755650.jpg?version=20240516102348.0",
+        "album": "Steal The Show (From “엘리멘탈”)"
+    },
+    {
+        "rank": "51",
+        "title": "You & I",
+        "artist": "이클립스 (ECLIPSE)",
+        "imageURL": "https://image.bugsm.co.kr/album/images/50/206352/20635260.jpg?version=20240508012916.0",
+        "album": "선재 업고 튀어 OST Part 1"
+    },
+    {
+        "rank": "52",
+        "title": "MAESTRO",
+        "artist": "세븐틴(SEVENTEEN)",
+        "imageURL": "https://image.bugsm.co.kr/album/images/50/41006/4100640.jpg?version=20240528012704.0",
+        "album": "SEVENTEEN BEST ALBUM ‘17 IS RIGHT HERE'"
+    },
+    {
+        "rank": "53",
+        "title": "Spicy",
+        "artist": "aespa",
+        "imageURL": "https://image.bugsm.co.kr/album/images/50/205634/20563467.jpg?version=20230601002330.0",
+        "album": "MY WORLD - The 3rd Mini Album"
+    },
+    {
+        "rank": "54",
+        "title": "사건의 지평선",
+        "artist": "윤하(Younha/ユンナ)",
+        "imageURL": "https://image.bugsm.co.kr/album/images/50/40734/4073469.jpg?version=20230110005119.0",
+        "album": "YOUNHA 6th Album Repackage 'END THEORY : Final Edition'"
+    },
+    {
+        "rank": "55",
+        "title": "Get A Guitar",
+        "artist": "RIIZE",
+        "imageURL": "https://image.bugsm.co.kr/album/images/50/40903/4090366.jpg?version=20240615021712.0",
+        "album": "Get A Guitar"
+    },
+    {
+        "rank": "56",
+        "title": "MANIAC",
+        "artist": "VIVIZ (비비지)",
+        "imageURL": "https://image.bugsm.co.kr/album/images/50/40926/4092661.jpg?version=20240209023306.0",
+        "album": "The 4th Mini Album 'VERSUS'"
+    },
+    {
+        "rank": "57",
+        "title": "After LIKE",
+        "artist": "IVE (아이브)",
+        "imageURL": "https://image.bugsm.co.kr/album/images/50/40789/4078936.jpg?version=20220824005434.0",
+        "album": "After LIKE"
+    },
+    {
+        "rank": "58",
+        "title": "주저하는 연인들을 위해",
+        "artist": "잔나비",
+        "imageURL": "https://image.bugsm.co.kr/album/images/50/202371/20237198.jpg?version=20210421045158.0",
+        "album": "전설"
+    },
+    {
+        "rank": "59",
+        "title": "OMG",
+        "artist": "NewJeans",
+        "imageURL": "https://image.bugsm.co.kr/album/images/50/40824/4082425.jpg?version=20231215003716.0",
+        "album": "NewJeans 'OMG'"
+    },
+    {
+        "rank": "60",
+        "title": "꿈결같아서",
+        "artist": "민니 ((여자)아이들)",
+        "imageURL": "https://image.bugsm.co.kr/album/images/50/206362/20636295.jpg?version=20240423111536.0",
+        "album": "선재 업고 튀어 OST Part 3"
+    },
+    {
+        "rank": "61",
+        "title": "Impossible",
+        "artist": "RIIZE",
+        "imageURL": "https://image.bugsm.co.kr/album/images/50/40997/4099766.jpg?version=20240618055838.0",
+        "album": "RIIZING - The 1st Mini Album"
+    },
+    {
+        "rank": "62",
+        "title": "Smart",
+        "artist": "LE SSERAFIM (르세라핌)",
+        "imageURL": "https://image.bugsm.co.kr/album/images/50/40956/4095604.jpg?version=20240326014635.0",
+        "album": "EASY"
+    },
+    {
+        "rank": "63",
+        "title": "헤어지자 말해요",
+        "artist": "박재정",
+        "imageURL": "https://image.bugsm.co.kr/album/images/50/40856/4085673.jpg?version=20230421064519.0",
+        "album": "1집 Alone"
+    },
+    {
+        "rank": "64",
+        "title": "Discord",
+        "artist": "QWER",
+        "imageURL": "https://image.bugsm.co.kr/album/images/50/40921/4092106.jpg?version=20231020004845.0",
+        "album": "1st Single Album 'Harmony from Discord'"
+    },
+    {
+        "rank": "65",
+        "title": "모든 날, 모든 순간 (Every day, Every Moment)",
+        "artist": "폴킴(Paul Kim)",
+        "imageURL": "https://image.bugsm.co.kr/album/images/50/201547/20154722.jpg?version=20230601001519.0",
+        "album": "'키스 먼저 할까요?' OST Part.3"
+    },
+    {
+        "rank": "66",
+        "title": "만날테니까",
+        "artist": "이클립스 (ECLIPSE)",
+        "imageURL": "https://image.bugsm.co.kr/album/images/50/206352/20635260.jpg?version=20240517165417.0",
+        "album": "선재 업고 튀어 OST Part 1"
+    },
+    {
+        "rank": "67",
+        "title": "홀씨",
+        "artist": "아이유(IU)",
+        "imageURL": "https://image.bugsm.co.kr/album/images/50/40955/4095501.jpg?version=20240307012526.0",
+        "album": "The Winning"
+    },
+    {
+        "rank": "68",
+        "title": "Seven (feat. Latto) - Clean Ver.",
+        "artist": "정국",
+        "imageURL": "https://image.bugsm.co.kr/album/images/50/40889/4088912.jpg?version=20230906160534.0",
+        "album": "Seven (feat. Latto) - Clean Ver."
+    },
+    {
+        "rank": "69",
+        "title": "I Don’t Think That I Like Her",
+        "artist": "Charlie Puth(찰리 푸스)",
+        "imageURL": "https://image.bugsm.co.kr/album/images/50/40797/4079758.jpg?version=20231120152111.0",
+        "album": "I Don’t Think That I Like Her"
+    },
+    {
+        "rank": "70",
+        "title": "Popcorn",
+        "artist": "도경수(D.O.)",
+        "imageURL": "https://image.bugsm.co.kr/album/images/50/206405/20640582.jpg?version=20240508003137.0",
+        "album": "성장 - THE 3RD MINI ALBUM"
+    },
+    {
+        "rank": "71",
+        "title": "청혼하지 않을 이유를 못 찾았어",
+        "artist": "이무진",
+        "imageURL": "https://image.bugsm.co.kr/album/images/50/40997/4099728.jpg?version=20240403064058.0",
+        "album": "청혼하지 않을 이유를 못 찾았어"
+    },
+    {
+        "rank": "72",
+        "title": "너의 모든 순간",
+        "artist": "성시경",
+        "imageURL": "https://image.bugsm.co.kr/album/images/50/4132/413209.jpg?version=20231101174008.0",
+        "album": "별에서 온 그대 (SBS 수목드라마) OST - Part.7"
+    },
+    {
+        "rank": "73",
+        "title": "LOVE DIVE",
+        "artist": "IVE (아이브)",
+        "imageURL": "https://image.bugsm.co.kr/album/images/50/40737/4073710.jpg?version=20220426143556.0",
+        "album": "LOVE DIVE"
+    },
+    {
+        "rank": "74",
+        "title": "Love Lee",
+        "artist": "AKMU(악뮤)",
+        "imageURL": "https://image.bugsm.co.kr/album/images/50/40903/4090354.jpg?version=20230822072239.0",
+        "album": "Love Lee"
+    },
+    {
+        "rank": "75",
+        "title": "Dangerously",
+        "artist": "Charlie Puth(찰리 푸스)",
+        "imageURL": "https://image.bugsm.co.kr/album/images/50/5277/527746.jpg?version=20240419013245.0",
+        "album": "Nine Track Mind (Deluxe Edition)"
+    },
+    {
+        "rank": "76",
+        "title": "숲",
+        "artist": "최유리",
+        "imageURL": "https://image.bugsm.co.kr/album/images/50/40790/4079006.jpg?version=20230912015742.0",
+        "album": "유영"
+    },
+    {
+        "rank": "77",
+        "title": "You & Me",
+        "artist": "제니 (JENNIE)",
+        "imageURL": "https://image.bugsm.co.kr/album/images/50/40917/4091774.jpg?version=20240209032352.0",
+        "album": "JENNIE Special Single [You & Me]"
+    },
+    {
+        "rank": "78",
+        "title": "Siren",
+        "artist": "RIIZE",
+        "imageURL": "https://image.bugsm.co.kr/album/images/50/40997/4099766.jpg?version=20240618055838.0",
+        "album": "RIIZING - The 1st Mini Album"
+    },
+    {
+        "rank": "79",
+        "title": "사랑인가 봐",
+        "artist": "멜로망스(MeloMance)",
+        "imageURL": "https://image.bugsm.co.kr/album/images/50/40713/4071363.jpg?version=20220330120007.0",
+        "album": "사랑인가 봐 (사내맞선 OST 스페셜 트랙)"
+    },
+    {
+        "rank": "80",
+        "title": "DASH",
+        "artist": "NMIXX",
+        "imageURL": "https://image.bugsm.co.kr/album/images/50/206098/20609824.jpg?version=20240201004850.0",
+        "album": "Fe3O4: BREAK"
+    },
+    {
+        "rank": "81",
+        "title": "내게 어울릴 이별 노래가 없어 (Prod. 윤상)",
+        "artist": "케이윌",
+        "imageURL": "https://image.bugsm.co.kr/album/images/50/41028/4102881.jpg?version=20240621005003.0",
+        "album": "All The Way"
+    },
+    {
+        "rank": "82",
+        "title": "꿈",
+        "artist": "태연 (TAEYEON)",
+        "imageURL": "https://image.bugsm.co.kr/album/images/50/40942/4094235.jpg?version=20240209032944.0",
+        "album": "웰컴투 삼달리 OST Part.3"
+    },
+    {
+        "rank": "83",
+        "title": "후라이의 꿈",
+        "artist": "AKMU(악뮤)",
+        "imageURL": "https://image.bugsm.co.kr/album/images/50/40903/4090354.jpg?version=20230822072239.0",
+        "album": "Love Lee"
+    },
+    {
+        "rank": "84",
+        "title": "건물 사이에 피어난 장미 (Rose Blossom)",
+        "artist": "H1-KEY (하이키)",
+        "imageURL": "https://image.bugsm.co.kr/album/images/50/305353/30535371.jpg?version=20230107012035.0",
+        "album": "H1-KEY 1st Mini Album [Rose Blossom]"
+    },
+    {
+        "rank": "85",
+        "title": "I'll Be There",
+        "artist": "이클립스 (ECLIPSE)",
+        "imageURL": "https://image.bugsm.co.kr/album/images/50/206384/20638425.jpg?version=20240508024358.0",
+        "album": "선재 업고 튀어 OST Part 4"
+    },
+    {
+        "rank": "86",
+        "title": "Lips (Feat. 지젤 of aespa)",
+        "artist": "볼빨간사춘기",
+        "imageURL": "https://image.bugsm.co.kr/album/images/50/41024/4102477.jpg?version=20240615014624.0",
+        "album": "Lips (Feat. 지젤 of aespa)"
+    },
+    {
+        "rank": "87",
+        "title": "청춘찬가",
+        "artist": "세븐틴(SEVENTEEN)",
+        "imageURL": "https://image.bugsm.co.kr/album/images/50/41006/4100640.jpg?version=20240528012704.0",
+        "album": "SEVENTEEN BEST ALBUM ‘17 IS RIGHT HERE'"
+    },
+    {
+        "rank": "88",
+        "title": "Perfect Night",
+        "artist": "LE SSERAFIM (르세라핌)",
+        "imageURL": "https://image.bugsm.co.kr/album/images/50/40924/4092452.jpg?version=20240209031034.0",
+        "album": "Perfect Night"
+    },
+    {
+        "rank": "89",
+        "title": "Obsessed",
+        "artist": "Ayumu Imazu",
+        "imageURL": "https://image.bugsm.co.kr/album/images/50/337124/33712497.jpg?version=20240622005601.0",
+        "album": "Obsessed"
+    },
+    {
+        "rank": "90",
+        "title": "Cruel Summer",
+        "artist": "Taylor Swift(테일러 스위프트)",
+        "imageURL": "https://image.bugsm.co.kr/album/images/50/9228/922832.jpg?version=20220618012325.0",
+        "album": "Lover"
+    },
+    {
+        "rank": "91",
+        "title": "Love 119",
+        "artist": "RIIZE",
+        "imageURL": "https://image.bugsm.co.kr/album/images/50/40948/4094833.jpg?version=20240209014851.0",
+        "album": "Love 119"
+    },
+    {
+        "rank": "92",
+        "title": "멈춰줘",
+        "artist": "헤이즈(Heize)",
+        "imageURL": "https://image.bugsm.co.kr/album/images/50/40991/4099131.jpg?version=20240517173844.0",
+        "album": "눈물의 여왕 OST Part.3"
+    },
+    {
+        "rank": "93",
+        "title": "반딧불 (Little Light)",
+        "artist": "도영 (DOYOUNG)",
+        "imageURL": "https://image.bugsm.co.kr/album/images/50/41003/4100339.jpg?version=20240508030626.0",
+        "album": "청춘의 포말 (YOUTH) - The 1st Album"
+    },
+    {
+        "rank": "94",
+        "title": "퀸카 (Queencard)",
+        "artist": "(여자)아이들",
+        "imageURL": "https://image.bugsm.co.kr/album/images/50/40863/4086320.jpg?version=20230615010743.0",
+        "album": "I feel"
+    },
+    {
+        "rank": "95",
+        "title": "EASY",
+        "artist": "LE SSERAFIM (르세라핌)",
+        "imageURL": "https://image.bugsm.co.kr/album/images/50/40956/4095604.jpg?version=20240326014635.0",
+        "album": "EASY"
+    },
+    {
+        "rank": "96",
+        "title": "ADHD (feat. 잠비노 (Jambino))",
+        "artist": "이영지",
+        "imageURL": "https://image.bugsm.co.kr/album/images/50/41029/4102930.jpg?version=20240622004230.0",
+        "album": "16 Fantasy"
+    },
+    {
+        "rank": "97",
+        "title": "어젯밤 (Guitar by 박주원)",
+        "artist": "정한 X 원우 (SEVENTEEN)",
+        "imageURL": "https://image.bugsm.co.kr/album/images/50/41027/4102787.jpg?version=20240618054647.0",
+        "album": "정한 X 원우 1st Single Album 'THIS MAN'"
+    },
+    {
+        "rank": "98",
+        "title": "Kitsch",
+        "artist": "IVE (아이브)",
+        "imageURL": "https://image.bugsm.co.kr/album/images/50/40849/4084947.jpg?version=20231121004633.0",
+        "album": "I've IVE"
+    },
+    {
+        "rank": "99",
+        "title": "사랑은 늘 도망가",
+        "artist": "임영웅",
+        "imageURL": "https://image.bugsm.co.kr/album/images/50/40658/4065831.jpg?version=20230422005430.0",
+        "album": "신사와 아가씨 OST Part.2"
+    },
+    {
+        "rank": "100",
+        "title": "Espresso",
+        "artist": "Sabrina Carpenter(사브리나 카펜터)",
+        "imageURL": "https://image.bugsm.co.kr/album/images/50/347121/34712194.jpg?version=20240425004939.0",
+        "album": "Espresso"
+    }
+]

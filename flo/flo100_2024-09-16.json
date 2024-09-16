@@ -1,0 +1,702 @@
+[
+    {
+        "rank": "1",
+        "title": "HAPPY",
+        "artist": "DAY6 (데이식스)",
+        "imageURL": "https://cdn.music-flo.com/image/v2/album/343/942/22/04/422942343_65f79af1_s.jpg?1710725874947/dims/resize/140x140/quality/90",
+        "album": "Fourever"
+    },
+    {
+        "rank": "2",
+        "title": "Supernova",
+        "artist": "aespa",
+        "imageURL": "https://cdn.music-flo.com/image/v2/album/322/955/24/04/424955322_66543e41_s.jpg?1716796998732/dims/resize/140x140/quality/90",
+        "album": "Armageddon - The 1st Album"
+    },
+    {
+        "rank": "3",
+        "title": "한 페이지가 될 수 있게",
+        "artist": "DAY6 (데이식스)",
+        "imageURL": "https://cdn.music-flo.com/image/album/931/230/03/04/403230931_5d2be198.jpg?1563156889809/dims/resize/140x140/quality/90",
+        "album": "The Book of Us : Gravity"
+    },
+    {
+        "rank": "4",
+        "title": "Welcome to the Show",
+        "artist": "DAY6 (데이식스)",
+        "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "album": "Fourever"
+    },
+    {
+        "rank": "5",
+        "title": "클락션 (Klaxon)",
+        "artist": "(여자)아이들",
+        "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "album": "I SWAY"
+    },
+    {
+        "rank": "6",
+        "title": "How Sweet",
+        "artist": "NewJeans",
+        "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "album": "How Sweet"
+    },
+    {
+        "rank": "7",
+        "title": "녹아내려요",
+        "artist": "DAY6 (데이식스)",
+        "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "album": "Band Aid"
+    },
+    {
+        "rank": "8",
+        "title": "나는 아픈 건 딱 질색이니까",
+        "artist": "(여자)아이들",
+        "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "album": "2"
+    },
+    {
+        "rank": "9",
+        "title": "사랑은 늘 도망가",
+        "artist": "임영웅",
+        "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "album": "신사와 아가씨 OST Part.2"
+    },
+    {
+        "rank": "10",
+        "title": "고민중독",
+        "artist": "QWER",
+        "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "album": "1st Mini Album 'MANITO'"
+    },
+    {
+        "rank": "11",
+        "title": "Sticky",
+        "artist": "KISS OF LIFE",
+        "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "album": "Sticky"
+    },
+    {
+        "rank": "12",
+        "title": "Supernatural",
+        "artist": "NewJeans",
+        "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "album": "Supernatural"
+    },
+    {
+        "rank": "13",
+        "title": "Small girl (feat. 도경수(D.O.))",
+        "artist": "이영지",
+        "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "album": "16 Fantasy"
+    },
+    {
+        "rank": "14",
+        "title": "우리들의 블루스",
+        "artist": "임영웅",
+        "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "album": "IM HERO"
+    },
+    {
+        "rank": "15",
+        "title": "모래 알갱이",
+        "artist": "임영웅",
+        "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "album": "모래 알갱이"
+    },
+    {
+        "rank": "16",
+        "title": "Supersonic",
+        "artist": "프로미스나인",
+        "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "album": "Supersonic"
+    },
+    {
+        "rank": "17",
+        "title": "이제 나만 믿어요",
+        "artist": "임영웅",
+        "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "album": "내일은 미스터트롯 우승자 특전곡"
+    },
+    {
+        "rank": "18",
+        "title": "Home",
+        "artist": "임영웅",
+        "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "album": "온기"
+    },
+    {
+        "rank": "19",
+        "title": "해야 (HEYA)",
+        "artist": "IVE (아이브)",
+        "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "album": "IVE SWITCH"
+    },
+    {
+        "rank": "20",
+        "title": "첫 만남은 계획대로 되지 않아",
+        "artist": "TWS (투어스)",
+        "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "album": "TWS 1st Mini Album ‘Sparkling Blue’"
+    },
+    {
+        "rank": "21",
+        "title": "온기",
+        "artist": "임영웅",
+        "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "album": "온기"
+    },
+    {
+        "rank": "22",
+        "title": "다시 만날 수 있을까",
+        "artist": "임영웅",
+        "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "album": "IM HERO"
+    },
+    {
+        "rank": "23",
+        "title": "예뻤어",
+        "artist": "DAY6 (데이식스)",
+        "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "album": "Every DAY6 February"
+    },
+    {
+        "rank": "24",
+        "title": "무지개",
+        "artist": "임영웅",
+        "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "album": "IM HERO"
+    },
+    {
+        "rank": "25",
+        "title": "Do or Die",
+        "artist": "임영웅",
+        "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "album": "Do or Die"
+    },
+    {
+        "rank": "26",
+        "title": "Polaroid",
+        "artist": "임영웅",
+        "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "album": "Polaroid"
+    },
+    {
+        "rank": "27",
+        "title": "London Boy",
+        "artist": "임영웅",
+        "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "album": "Polaroid"
+    },
+    {
+        "rank": "28",
+        "title": "인생찬가",
+        "artist": "임영웅",
+        "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "album": "IM HERO"
+    },
+    {
+        "rank": "29",
+        "title": "연애편지",
+        "artist": "임영웅",
+        "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "album": "IM HERO"
+    },
+    {
+        "rank": "30",
+        "title": "Magnetic",
+        "artist": "아일릿(ILLIT)",
+        "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "album": "SUPER REAL ME"
+    },
+    {
+        "rank": "31",
+        "title": "보금자리",
+        "artist": "임영웅",
+        "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "album": "IM HERO"
+    },
+    {
+        "rank": "32",
+        "title": "Armageddon",
+        "artist": "aespa",
+        "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "album": "Armageddon - The 1st Album"
+    },
+    {
+        "rank": "33",
+        "title": "에피소드",
+        "artist": "이무진",
+        "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "album": "에피소드"
+    },
+    {
+        "rank": "34",
+        "title": "Pump Up The Volume!",
+        "artist": "PLAVE",
+        "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "album": "Pump Up The Volume!"
+    },
+    {
+        "rank": "35",
+        "title": "Bubble Gum",
+        "artist": "NewJeans",
+        "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "album": "How Sweet"
+    },
+    {
+        "rank": "36",
+        "title": "별별별 (See that?)",
+        "artist": "NMIXX",
+        "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "album": "Fe3O4: STICK OUT"
+    },
+    {
+        "rank": "37",
+        "title": "천상연",
+        "artist": "이창섭",
+        "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "album": "천상연 (웹툰 '선녀외전' X 이창섭 (LEE CHANGSUB))"
+    },
+    {
+        "rank": "38",
+        "title": "소나기",
+        "artist": "이클립스 (ECLIPSE)",
+        "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "album": "선재 업고 튀어 OST Part 1"
+    },
+    {
+        "rank": "39",
+        "title": "I AM",
+        "artist": "IVE (아이브)",
+        "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "album": "I've IVE"
+    },
+    {
+        "rank": "40",
+        "title": "WAY 4 LUV",
+        "artist": "PLAVE",
+        "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "album": "ASTERUM : 134-1"
+    },
+    {
+        "rank": "41",
+        "title": "우리 영화",
+        "artist": "PLAVE",
+        "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "album": "ASTERUM : 134-1"
+    },
+    {
+        "rank": "42",
+        "title": "SPOT! (feat. JENNIE)",
+        "artist": "지코 (ZICO)",
+        "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "album": "SPOT!"
+    },
+    {
+        "rank": "43",
+        "title": "Love wins all",
+        "artist": "아이유 (IU)",
+        "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "album": "The Winning"
+    },
+    {
+        "rank": "44",
+        "title": "Hype Boy",
+        "artist": "NewJeans",
+        "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "album": "NewJeans 1st EP 'New Jeans'"
+    },
+    {
+        "rank": "45",
+        "title": "슬픈 초대장",
+        "artist": "순순희 (지환)",
+        "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "album": "슬픈 초대장"
+    },
+    {
+        "rank": "46",
+        "title": "여섯 번째 여름",
+        "artist": "PLAVE",
+        "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "album": "ASTERUM : The Shape of Things to Come"
+    },
+    {
+        "rank": "47",
+        "title": "ETA",
+        "artist": "NewJeans",
+        "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "album": "NewJeans 2nd EP 'Get Up'"
+    },
+    {
+        "rank": "48",
+        "title": "내가 S면 넌 나의 N이 되어줘",
+        "artist": "TWS (투어스)",
+        "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "album": "TWS 2nd Mini Album ‘SUMMER BEAT!’"
+    },
+    {
+        "rank": "49",
+        "title": "From",
+        "artist": "PLAVE",
+        "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "album": "ASTERUM : 134-1"
+    },
+    {
+        "rank": "50",
+        "title": "Watch Me Woo!",
+        "artist": "PLAVE",
+        "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "album": "ASTERUM : 134-1"
+    },
+    {
+        "rank": "51",
+        "title": "빛이 나는 사람",
+        "artist": "김호중",
+        "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "album": "빛이 나는 사람"
+    },
+    {
+        "rank": "52",
+        "title": "비의 랩소디",
+        "artist": "임재현",
+        "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "album": "비의 랩소디"
+    },
+    {
+        "rank": "53",
+        "title": "쏜살",
+        "artist": "김호중",
+        "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "album": "A LIFE(세상)"
+    },
+    {
+        "rank": "54",
+        "title": "그대... 떠나도",
+        "artist": "김호중",
+        "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "album": "A LIFE(세상)"
+    },
+    {
+        "rank": "55",
+        "title": "함께 가 줄래",
+        "artist": "김호중",
+        "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "album": "A LIFE(세상)"
+    },
+    {
+        "rank": "56",
+        "title": "바람이 부는 날엔",
+        "artist": "김호중",
+        "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "album": "A LIFE(세상)"
+    },
+    {
+        "rank": "57",
+        "title": "봄날에",
+        "artist": "김호중",
+        "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "album": "A LIFE(세상)"
+    },
+    {
+        "rank": "58",
+        "title": "헤어지자 말해요",
+        "artist": "박재정",
+        "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "album": "1집 Alone"
+    },
+    {
+        "rank": "59",
+        "title": "별 헤는 밤",
+        "artist": "김호중",
+        "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "album": "A LIFE(세상)"
+    },
+    {
+        "rank": "60",
+        "title": "그대만 있다면 (여름날 우리 X 너드커넥션 (Nerd Connection))",
+        "artist": "너드커넥션 (Nerd Connection)",
+        "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "album": "그대만 있다면 (여름날 우리 X 너드커넥션 (Nerd Connection))"
+    },
+    {
+        "rank": "61",
+        "title": "버추얼 아이돌",
+        "artist": "PLAVE",
+        "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "album": "ASTERUM : 134-1"
+    },
+    {
+        "rank": "62",
+        "title": "Super Shy",
+        "artist": "NewJeans",
+        "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "album": "NewJeans 2nd EP 'Get Up'"
+    },
+    {
+        "rank": "63",
+        "title": "Merry PLLIstmas",
+        "artist": "PLAVE",
+        "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "album": "ASTERUM : 134-1"
+    },
+    {
+        "rank": "64",
+        "title": "밤양갱",
+        "artist": "비비 (BIBI)",
+        "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "album": "밤양갱"
+    },
+    {
+        "rank": "65",
+        "title": "Congratulations",
+        "artist": "DAY6 (데이식스)",
+        "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "album": "The Day"
+    },
+    {
+        "rank": "66",
+        "title": "Ditto",
+        "artist": "NewJeans",
+        "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "album": "NewJeans 'OMG'"
+    },
+    {
+        "rank": "67",
+        "title": "CRAZY",
+        "artist": "LE SSERAFIM (르세라핌)",
+        "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "album": "CRAZY"
+    },
+    {
+        "rank": "68",
+        "title": "미안해 미워해 사랑해",
+        "artist": "Crush",
+        "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "album": "눈물의 여왕 OST Part.4"
+    },
+    {
+        "rank": "69",
+        "title": "다정히 내 이름을 부르면",
+        "artist": "경서예지",
+        "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "album": "다정히 내 이름을 부르면 (경서예지 x 전건호)"
+    },
+    {
+        "rank": "70",
+        "title": "LOVE DIVE",
+        "artist": "IVE (아이브)",
+        "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "album": "LOVE DIVE"
+    },
+    {
+        "rank": "71",
+        "title": "사건의 지평선",
+        "artist": "윤하",
+        "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "album": "YOUNHA 6th Album Repackage 'END THEORY : Final Edition'"
+    },
+    {
+        "rank": "72",
+        "title": "오래된 노래",
+        "artist": "허각",
+        "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "album": "오래된 노래"
+    },
+    {
+        "rank": "73",
+        "title": "너의 모든 순간",
+        "artist": "성시경",
+        "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "album": "별에서 온 그대 (SBS 수목드라마) OST - Part.7"
+    },
+    {
+        "rank": "74",
+        "title": "Boom Boom Bass",
+        "artist": "RIIZE",
+        "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "album": "RIIZING - The 1st Mini Album"
+    },
+    {
+        "rank": "75",
+        "title": "Attention",
+        "artist": "NewJeans",
+        "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "album": "NewJeans 1st EP 'New Jeans'"
+    },
+    {
+        "rank": "76",
+        "title": "인사",
+        "artist": "범진",
+        "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "album": "인사"
+    },
+    {
+        "rank": "77",
+        "title": "심(心)",
+        "artist": "DK(디셈버)",
+        "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "album": "심(心)"
+    },
+    {
+        "rank": "78",
+        "title": "퀸카 (Queencard)",
+        "artist": "(여자)아이들",
+        "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "album": "I feel"
+    },
+    {
+        "rank": "79",
+        "title": "청혼하지 않을 이유를 못 찾았어",
+        "artist": "이무진",
+        "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "album": "청혼하지 않을 이유를 못 찾았어"
+    },
+    {
+        "rank": "80",
+        "title": "To. X",
+        "artist": "태연 (TAEYEON)",
+        "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "album": "To. X - The 5th Mini Album"
+    },
+    {
+        "rank": "81",
+        "title": "SHEESH",
+        "artist": "BABYMONSTER",
+        "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "album": "BABYMONS7ER"
+    },
+    {
+        "rank": "82",
+        "title": "Accendio",
+        "artist": "IVE (아이브)",
+        "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "album": "IVE SWITCH"
+    },
+    {
+        "rank": "83",
+        "title": "After LIKE",
+        "artist": "IVE (아이브)",
+        "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "album": "After LIKE"
+    },
+    {
+        "rank": "84",
+        "title": "Drama",
+        "artist": "aespa",
+        "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "album": "Drama - The 4th Mini Album"
+    },
+    {
+        "rank": "85",
+        "title": "MEOW",
+        "artist": "MEOVV (미야오)",
+        "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "album": "MEOW"
+    },
+    {
+        "rank": "86",
+        "title": "I Don’t Think That I Like Her",
+        "artist": "Charlie Puth",
+        "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "album": "CHARLIE"
+    },
+    {
+        "rank": "87",
+        "title": "주저하는 연인들을 위해",
+        "artist": "잔나비",
+        "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "album": "전설"
+    },
+    {
+        "rank": "88",
+        "title": "모든 날, 모든 순간 (Every day, Every Moment)",
+        "artist": "폴킴",
+        "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "album": "'키스 먼저 할까요?' OST Part.3"
+    },
+    {
+        "rank": "89",
+        "title": "그녀가 웃었다",
+        "artist": "DAY6 (데이식스)",
+        "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "album": "Band Aid"
+    },
+    {
+        "rank": "90",
+        "title": "STAY (Explicit Ver.)",
+        "artist": "The Kid LAROI",
+        "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "album": "STAY"
+    },
+    {
+        "rank": "91",
+        "title": "Live My Life",
+        "artist": "aespa",
+        "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "album": "Armageddon - The 1st Album"
+    },
+    {
+        "rank": "92",
+        "title": "Spicy",
+        "artist": "aespa",
+        "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "album": "MY WORLD - The 3rd Mini Album"
+    },
+    {
+        "rank": "93",
+        "title": "Nice Guy",
+        "artist": "BOYNEXTDOOR",
+        "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "album": "19.99"
+    },
+    {
+        "rank": "94",
+        "title": "OMG",
+        "artist": "NewJeans",
+        "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "album": "NewJeans 'OMG'"
+    },
+    {
+        "rank": "95",
+        "title": "Girls Never Die",
+        "artist": "tripleS (트리플에스)",
+        "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "album": "<ASSEMBLE24>"
+    },
+    {
+        "rank": "96",
+        "title": "사랑이 죄야? (Feat. 10CM, B.I)",
+        "artist": "KIXO (키조)",
+        "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "album": "LOVE DILEMMA (Feat. 10CM, B.I)"
+    },
+    {
+        "rank": "97",
+        "title": "Perfect Night",
+        "artist": "LE SSERAFIM (르세라핌)",
+        "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "album": "Perfect Night"
+    },
+    {
+        "rank": "98",
+        "title": "Love Lee",
+        "artist": "AKMU (악뮤)",
+        "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "album": "Love Lee"
+    },
+    {
+        "rank": "99",
+        "title": "취중고백",
+        "artist": "김민석",
+        "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "album": "취중고백"
+    },
+    {
+        "rank": "100",
+        "title": "EASY",
+        "artist": "LE SSERAFIM (르세라핌)",
+        "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "album": "EASY"
+    }
+]
